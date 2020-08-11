@@ -5,5 +5,5 @@
 - Sqlite
 - tkinter library
 #### This are the screens of the Game.
-<img align="left" alt="Main Screen GUI" width="500px" src="Images/Annotation 2020-08-10 130819.png" />
-<img align="left" alt="Player Screen GUI" width="500px" src="Images/Annotation 2020-08-10 130638.png" />
+<img align="left" alt="Main Screen GUI" width="350px" src="Images/Annotation 2020-08-10 130819.png" />
+<img align="left" alt="Player Screen GUI" width="350px" src="Images/Annotation 2020-08-10 130638.png" />
